@@ -38,6 +38,7 @@ cargo install cargo-generate
 
 ```bash
 cargo generate tyr-rust-bootcamp/template
+cargo generate --git https://github.com/todayisall/rust-bootcamp-template.git
 ```
 
 ### 安装 pre-commit
